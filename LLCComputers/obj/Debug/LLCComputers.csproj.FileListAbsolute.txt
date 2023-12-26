@@ -1,0 +1,16 @@
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\LLCComputers.exe.config
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\LLCComputers.exe
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\LLCComputers.pdb
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.Properties.Resources.resources
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.csproj.GenerateResource.cache
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.exe
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.pdb
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\EntityFramework.dll
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\EntityFramework.xml
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.csproj.CopyComplete
+C:\Users\infor\source\repos\LLCComputers\LLCComputers\obj\Debug\LLCComputers.MainForm.resources
